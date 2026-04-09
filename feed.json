@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://thoughtshrapnel.micro.blog/2026/04/09/commonplace.html",
+				"title": "Commonplace",
+				"content_html": "<!-- raw HTML omitted -->\n<p>I&rsquo;m building and experimenting with a new <em>Thought Shrapnel</em>-adjacent thing called Commonplace. It&rsquo;s a federated collection manager for the open social web.</p>\n<p>You can <a href=\"https://commonplace.dynamicskillset.com/\">try it out</a> and/or <a href=\"https://framagit.org/dynamicskillset/commonplace\">install your own version</a>. I haven&rsquo;t given up on the #MoodleNet idea of communities curating collections. It&rsquo;s currently links-only, but once I get the right protections in place, I plan to allow resource uploads, as well as the ability to have to sign in to view collections.</p>\n<blockquote>\n<p>Commonplace is a link collection manager for the open social web. Organise links by topic, invite collaborators, and share collections with people on Mastodon, Bluesky, and RSS — without asking them to sign up anywhere new.</p>\n</blockquote>\n<p>Source: <a href=\"https://dynamicskillset.frama.io/commonplace/\">Commonplace</a></p>\n",
+				"content_text": "<img src=\"uploads/2026/commonplace-promo.png\" width=\"600\" height=\"315\" alt=\"Auto-generated description: Commonplace is described as a platform for curating and sharing links across the open social web, with options like Mastodon and RSS, and no account required.\">\n\nI'm building and experimenting with a new _Thought Shrapnel_-adjacent thing called Commonplace. It's a federated collection manager for the open social web.\n\nYou can [try it out](https://commonplace.dynamicskillset.com/) and/or [install your own version](https://framagit.org/dynamicskillset/commonplace). I haven't given up on the #MoodleNet idea of communities curating collections. It's currently links-only, but once I get the right protections in place, I plan to allow resource uploads, as well as the ability to have to sign in to view collections.   \n\n> Commonplace is a link collection manager for the open social web. Organise links by topic, invite collaborators, and share collections with people on Mastodon, Bluesky, and RSS — without asking them to sign up anywhere new.\n\nSource: [Commonplace](https://dynamicskillset.frama.io/commonplace/) \n",
+				"date_published": "2026-04-09T08:28:53+01:00",
+				"url": "https://thoughtshrapnel.com/2026/04/09/commonplace.html"
+			},
+			{
 				"id": "http://thoughtshrapnel.micro.blog/2026/04/04/happy-easter.html",
 				"title": "🐣 Happy Easter! ",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>No <em>Thought Shrapnel</em> this week. Enjoy celebrating/not celebrating Easter however you do (or don&rsquo;t) do it! 🙂</p>\n",
-				"content_text": "<a href=\"https://hotnews8.net/funny/simulacra\"><img src=\"uploads/2026/original-ebd687a6ca71e6565c1d02ead8ce7bb9.webp\" width=\"600\" height=\"750\" alt=\"Auto-generated description: A brick wall with two circular windows and an arched doorway resembles a face.\"></a>\n\nNo _Thought Shrapnel_ this week. Enjoy celebrating/not celebrating Easter however you do (or don't) do it! 🙂\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>No <em>Thought Shrapnel</em> this week. Enjoy celebrating/not celebrating Easter however you do (or don&rsquo;t do) it! 🙂</p>\n",
+				"content_text": "<a href=\"https://hotnews8.net/funny/simulacra\"><img src=\"uploads/2026/original-ebd687a6ca71e6565c1d02ead8ce7bb9.webp\" width=\"600\" height=\"750\" alt=\"Auto-generated description: A brick wall with two circular windows and an arched doorway resembles a face.\"></a>\n\nNo _Thought Shrapnel_ this week. Enjoy celebrating/not celebrating Easter however you do (or don't do) it! 🙂\n",
 				"date_published": "2026-04-04T16:48:10+01:00",
 				"url": "https://thoughtshrapnel.com/2026/04/04/happy-easter.html"
 			},
